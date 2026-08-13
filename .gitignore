@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/submissions/
+.freebuff/*.log
+.freebuff/*.log.err
+.DS_Store

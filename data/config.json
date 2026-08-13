@@ -1,0 +1,35 @@
+{
+  "company": {
+    "name": "Bahauddin Zakariya International",
+    "shortName": "BZI",
+    "tagline": "Overseas Employment Promoters & Travel Services",
+    "yearEstablished": 2013,
+    "phones": ["+92 300 9634530", "+92 300 6300269"],
+    "whatsapp": "923009634530",
+    "emails": ["bzioep@gmail.com", "bz786@hotmail.com"],
+    "address": [
+      "Shop # 35, Near Rahim Chowk,",
+      "Gulshan Market Road,",
+      "Multan Cantt. Shah Rukn E Alam Town, Pakistan"
+    ],
+    "social": {
+      "facebook": "#",
+      "linkedin": "#",
+      "instagram": "#"
+    }
+  },
+  "license": {
+    "licenseNo": "3165/MTN",
+    "holder": "Muhammad Asif Makki",
+    "ntn": "3626442",
+    "authority": "Ministry of Overseas Pakistanis & Human Resource Development",
+    "issueDate": "2023-01-01",
+    "expiryDate": "2027-12-31"
+  },
+  "stats": {
+    "years": "13+",
+    "deployed": "5000+",
+    "satisfaction": "99%",
+    "compliance": "100%"
+  }
+}

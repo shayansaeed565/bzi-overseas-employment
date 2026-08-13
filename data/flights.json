@@ -1,0 +1,92 @@
+{
+  "airports": [
+    { "city": "Multan", "code": "MUX" },
+    { "city": "Lahore", "code": "LHE" },
+    { "city": "Karachi", "code": "KHI" },
+    { "city": "Islamabad", "code": "ISB" },
+    { "city": "Dubai", "code": "DXB" },
+    { "city": "Sharjah", "code": "SHJ" },
+    { "city": "Jeddah", "code": "JED" },
+    { "city": "Riyadh", "code": "RUH" },
+    { "city": "Doha", "code": "DOH" },
+    { "city": "Muscat", "code": "MCT" },
+    { "city": "Manama", "code": "BAH" }
+  ],
+  "routes": [
+    {
+      "from": "Multan", "to": "Dubai",
+      "options": [
+        { "airline": "Emirates", "flight": "EK 653", "depart": "04:30", "arrive": "06:45", "duration": "3h 15m", "stops": 0, "price": 185000, "classes": ["Economy", "Business"] },
+        { "airline": "Flydubai", "flight": "FZ 347", "depart": "11:20", "arrive": "13:40", "duration": "3h 20m", "stops": 0, "price": 142000, "classes": ["Economy"] },
+        { "airline": "PIA", "flight": "PK 283", "depart": "23:15", "arrive": "01:35", "duration": "3h 20m", "stops": 0, "price": 118000, "classes": ["Economy"] }
+      ]
+    },
+    {
+      "from": "Multan", "to": "Jeddah",
+      "options": [
+        { "airline": "Saudia", "flight": "SV 781", "depart": "02:40", "arrive": "07:55", "duration": "5h 15m", "stops": 0, "price": 158000, "classes": ["Economy"] },
+        { "airline": "Air Arabia", "flight": "G9 612", "depart": "09:10", "arrive": "14:05", "duration": "4h 55m", "stops": 0, "price": 129000, "classes": ["Economy"] },
+        { "airline": "PIA", "flight": "PK 703", "depart": "21:30", "arrive": "02:45", "duration": "5h 15m", "stops": 0, "price": 112000, "classes": ["Economy"] }
+      ]
+    },
+    {
+      "from": "Lahore", "to": "Dubai",
+      "options": [
+        { "airline": "Emirates", "flight": "EK 625", "depart": "03:05", "arrive": "05:35", "duration": "3h 30m", "stops": 0, "price": 168000, "classes": ["Economy", "Business"] },
+        { "airline": "Flydubai", "flight": "FZ 355", "depart": "13:45", "arrive": "16:15", "duration": "3h 30m", "stops": 0, "price": 134000, "classes": ["Economy"] },
+        { "airline": "Airblue", "flight": "PA 219", "depart": "19:20", "arrive": "21:50", "duration": "3h 30m", "stops": 0, "price": 121000, "classes": ["Economy"] }
+      ]
+    },
+    {
+      "from": "Lahore", "to": "Jeddah",
+      "options": [
+        { "airline": "Saudia", "flight": "SV 709", "depart": "01:50", "arrive": "06:20", "duration": "5h 30m", "stops": 0, "price": 152000, "classes": ["Economy"] },
+        { "airline": "Flynas", "flight": "XY 312", "depart": "08:30", "arrive": "12:55", "duration": "5h 25m", "stops": 0, "price": 126000, "classes": ["Economy"] }
+      ]
+    },
+    {
+      "from": "Karachi", "to": "Riyadh",
+      "options": [
+        { "airline": "Saudia", "flight": "SV 707", "depart": "00:20", "arrive": "04:15", "duration": "3h 55m", "stops": 0, "price": 139000, "classes": ["Economy"] },
+        { "airline": "Flynas", "flight": "XY 318", "depart": "12:05", "arrive": "15:50", "duration": "3h 45m", "stops": 0, "price": 118000, "classes": ["Economy"] },
+        { "airline": "PIA", "flight": "PK 749", "depart": "22:40", "arrive": "02:35", "duration": "3h 55m", "stops": 0, "price": 104000, "classes": ["Economy"] }
+      ]
+    },
+    {
+      "from": "Karachi", "to": "Dubai",
+      "options": [
+        { "airline": "Emirates", "flight": "EK 607", "depart": "05:10", "arrive": "06:55", "duration": "2h 45m", "stops": 0, "price": 154000, "classes": ["Economy", "Business"] },
+        { "airline": "Flydubai", "flight": "FZ 305", "depart": "15:30", "arrive": "17:15", "duration": "2h 45m", "stops": 0, "price": 121000, "classes": ["Economy"] },
+        { "airline": "PIA", "flight": "PK 213", "depart": "20:45", "arrive": "22:30", "duration": "2h 45m", "stops": 0, "price": 108000, "classes": ["Economy"] }
+      ]
+    },
+    {
+      "from": "Islamabad", "to": "Sharjah",
+      "options": [
+        { "airline": "Air Arabia", "flight": "G9 632", "depart": "03:50", "arrive": "06:25", "duration": "3h 35m", "stops": 0, "price": 127000, "classes": ["Economy"] },
+        { "airline": "PIA", "flight": "PK 191", "depart": "14:10", "arrive": "16:45", "duration": "3h 35m", "stops": 0, "price": 113000, "classes": ["Economy"] }
+      ]
+    },
+    {
+      "from": "Multan", "to": "Doha",
+      "options": [
+        { "airline": "Qatar Airways", "flight": "QR 611", "depart": "06:20", "arrive": "09:10", "duration": "2h 50m", "stops": 0, "price": 163000, "classes": ["Economy", "Business"] },
+        { "airline": "PIA", "flight": "PK 277", "depart": "18:35", "arrive": "21:25", "duration": "2h 50m", "stops": 0, "price": 119000, "classes": ["Economy"] }
+      ]
+    },
+    {
+      "from": "Multan", "to": "Muscat",
+      "options": [
+        { "airline": "Oman Air", "flight": "WY 518", "depart": "09:40", "arrive": "12:15", "duration": "2h 35m", "stops": 0, "price": 132000, "classes": ["Economy"] },
+        { "airline": "Salam Air", "flight": "OV 236", "depart": "17:25", "arrive": "20:00", "duration": "2h 35m", "stops": 0, "price": 109000, "classes": ["Economy"] }
+      ]
+    },
+    {
+      "from": "Multan", "to": "Manama",
+      "options": [
+        { "airline": "Gulf Air", "flight": "GF 775", "depart": "11:50", "arrive": "14:35", "duration": "2h 45m", "stops": 0, "price": 141000, "classes": ["Economy"] },
+        { "airline": "PIA", "flight": "PK 245", "depart": "22:15", "arrive": "01:00", "duration": "2h 45m", "stops": 0, "price": 116000, "classes": ["Economy"] }
+      ]
+    }
+  ]
+}

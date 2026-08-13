@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Heavy Duty Driver",
+    "country": "Saudi Arabia",
+    "type": "Skilled",
+    "salary": "SAR 1,800 - 2,200 / month",
+    "seats": 12,
+    "posted": "2 days ago",
+    "description": "Valid light/heavy license with GCC road experience preferred. Air-conditioned accommodation and transport provided."
+  },
+  {
+    "title": "Electrician (Industrial)",
+    "country": "UAE",
+    "type": "Skilled",
+    "salary": "AED 2,000 - 2,500 / month",
+    "seats": 8,
+    "posted": "1 week ago",
+    "description": "Minimum 3 years industrial wiring and panel experience. Electrician trade certificate required."
+  },
+  {
+    "title": "Warehouse Helper",
+    "country": "Qatar",
+    "type": "Unskilled",
+    "salary": "QAR 1,200 - 1,400 / month",
+    "seats": 25,
+    "posted": "3 days ago",
+    "description": "Loading, unloading and inventory support. No experience required — on-site training provided."
+  },
+  {
+    "title": "CNC Machine Operator",
+    "country": "Saudi Arabia",
+    "type": "Skilled",
+    "salary": "SAR 2,000 - 2,600 / month",
+    "seats": 6,
+    "posted": "2 weeks ago",
+    "description": "Experience operating CNC lathes and milling machines. Technical diploma preferred."
+  },
+  {
+    "title": "Construction Labor",
+    "country": "Oman",
+    "type": "Unskilled",
+    "salary": "OMR 130 - 160 / month",
+    "seats": 30,
+    "posted": "1 day ago",
+    "description": "General site labor for a large-scale infrastructure project. Free food and shared accommodation."
+  },
+  {
+    "title": "AC Technician",
+    "country": "UAE",
+    "type": "Skilled",
+    "salary": "AED 1,900 - 2,300 / month",
+    "seats": 10,
+    "posted": "5 days ago",
+    "description": "Installation, servicing and repair of split and central AC units. Must hold a valid trade certificate."
+  }
+]
